@@ -1,6 +1,7 @@
 ---
 permalink: feed.xml
 eleventyExcludeFromCollections: true
+templateEngineOverride: liquid
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ libdocConfig.lang }}">
@@ -20,7 +21,7 @@ eleventyExcludeFromCollections: true
         </name>
     </author>
     {%- for post in collections.post | reverse %}
-        {%- assign absolutePostUrl = libdocConfig.productionUrl | append: post.url -%}
+        {%- set absolutePostUrl %}{{ libdocConfig.productionUrl }}{{ post.url }}{% endset %}
         <entry>
             <title>
                 {%- if post.data.title == '' -%}

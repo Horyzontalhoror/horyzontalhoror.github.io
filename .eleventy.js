@@ -55,6 +55,6 @@ export default function(eleventyConfig) {
     // END FILE COPY
     
     return {
-        pathPrefix: "/alink.github.io/"
+        pathPrefix: libdocConfig.htmlBasePathPrefix
     }
 };
