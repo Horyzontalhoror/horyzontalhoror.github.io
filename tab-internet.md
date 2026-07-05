@@ -11,8 +11,7 @@ tags:
 # date: 2024-01-01
 ---
 
-> Gunakan [Download Manager](https://dobydon.github.io/windows/#download-managers) untuk mengunduh file.
-{: .prompt-tip }
+> Gunakan [Download Manager](http://horyzontalhoror.github.io/Download/#download-managers) untuk mengunduh file.
 
 #### Ad block
 
