@@ -16,6 +16,7 @@ tags:
 #### Ad block
 - [uBlock](https://github.com/gorhill/uBlock)
   - [Lite](https://github.com/uBlockOrigin/uBOL-home)
+  - [apply filters](https://www.reddit.com/r/uBlockOrigin/wiki/solutions/)
 - [Adguard](https://github.com/AdguardTeam/AdguardBrowserExtension#-installation)
 
 #### Browser
@@ -60,6 +61,8 @@ tags:
 - [Immersive translate](https://immersivetranslate.com/)
 - [Popup Blocker (strict)](https://github.com/schomery/popup-blocker)
 - [Chrome Currency Converter](https://chromewebstore.google.com/detail/chrome-currency-converter/anbfhidldjknonaihbalghlebaijealk)
+- [LibRedirect](https://libredirect.manerakai.com/)
+  - [extension](https://github.com/libredirect/browser_extension)
 
 #### Password Managers
 - [Bitwarden](https://bitwarden.com/)

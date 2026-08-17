@@ -45,6 +45,12 @@ tags:
 - [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVIDIA driver cleaner
 - [f.lux](https://justgetflux.com/) - Adjust screen color temperature
 
+#### File Tool
+- [CloudConvert](https://cloudconvert.com/) / [VERT](https://vert.sh/) - Online file converter
+- [File converter](https://file-converter.io/) - File converter
+- [Czkawka](https://github.com/qarmin/czkawka) - Duplicate file finder
+
+
 #### Uninstallers / Cleaners
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
 - [Uninstall Microsoft Edge](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)
@@ -104,6 +110,23 @@ tags:
 - [VMware workstation](https://www.techpowerup.com/download/vmware-workstation-pro/)
 - [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/)
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/)
+
+#### Image Editing
+- [Gimp](https://www.gimp.org/)
+- [Photopea](https://www.photopea.com/)
+- [Pixlr](https://pixlr.com/)
+  - [Premium Content Remover](https://greasyfork.org/en/scripts/425737-pixlr-x-premium-content-remover)
+  - [Unlimited Saves](https://greasyfork.org/en/scripts/460881-pixlr-unlimited-saves) / [2](https://greasyfork.org/en/scripts/490940-pixlr-unlimited-saves-updated-26-03-2024)
+- [Remove.bg](https://www.remove.bg/)
+
+#### AI Image Tools
+- [Upscayl](https://upscayl.org/) - AI Image Upscaling
+- [Bn Bloat](https://bn.bloat.cat/) - alternative Pinterest
+
+#### Video Editing
+- [Shotcut](https://shotcut.org/)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- [Wide Video](https://wide.video/)
 
 #### Wallpaper / Customization / Themes
 - [Rainmeter](https://www.rainmeter.net/)

@@ -33,3 +33,6 @@ tags:
 
 #### Pemerograman
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-id.md) - Kumpulan buku bahasa pemerograman
+
+#### Another 
+- [Pustaka Langka](https://langka.logosid.app/)

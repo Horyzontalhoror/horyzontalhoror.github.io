@@ -50,6 +50,7 @@ tags:
 - [Gog-games](https://gog-games.to/)
 - [Ankergames](https://ankergames.net/)
 - [Fitgirl-repacks](https://fitgirl-repacks.site/)
+  - [Fake Fitgirl](https://clarasguide.valeena.workers.dev/Guides/FakeFitgirlwebsites/)
 - [Elamigos](https://elamigos.site/) - Tersedia juga di ova games
 - [Ova games](https://www.ovagames.com/) - *Password:* `www.ovagames.com`
 - [ankergames](https://ankergames.net/)

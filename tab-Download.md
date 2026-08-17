@@ -16,6 +16,7 @@ tags:
 - [JDownloader](https://jdownloader.org/jdownloader2)
   - [Clean Installers](https://board.jdownloader.org/showthread.php?t=54725) - JDownloader 2 Clean Installers (No Adware!)
   - [Enhance](https://lemmy.world/post/3098414)
+  - [Debloat](https://clarasguide.valeena.workers.dev/Guides/jdownloader2/#debloating)
 - [IDM](https://www.internetdownloadmanager.com/download.html)
   - [Instruksi](https://rentry.org/installidm)
 - [Xtreme download manager](https://xtremedownloadmanager.com/)
@@ -51,5 +52,5 @@ tags:
 
 #### Tools
 - [7-Zip](https://www.7-zip.org/) - File archiver
-- [WinRAR](https://www.win-rar.com/start.html?&L=0) - File archiver
+- [WinRAR](https://www.win-rar.com/), [Remove pop-up](https://clarasguide.valeena.workers.dev/Guides/x3-rawr/) - File archiver
 - [PeaZip](https://peazip.github.io/) - File archiver

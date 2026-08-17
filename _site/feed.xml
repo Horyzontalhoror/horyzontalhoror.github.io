@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>ALink</title>
-    <subtitle>This is the description of my project title</subtitle>
+    <subtitle>Hello, welcome to my website! </subtitle>
     <link href="feed.xml" rel="self" />
     <link href="https://horyzontalhoror.github.io/feed.xml" />
-    <updated>2026-07-06T19:15:27Z</updated>
+    <updated>2026-07-06T20:56:14Z</updated>
     <id>https://horyzontalhoror.github.io/feed.xml</id>
     <author>
         <name>11ty LibDoc</name>

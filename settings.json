@@ -1,6 +1,6 @@
 {
     "siteTitle": "ALink",
-    "siteDescription": "This is the description of my project title",
+    "siteDescription": "Hello, welcome to my website! ",
     "author": "Doby_Don",
     "faviconUrl": "/assets/myfavicon.png",
     "blogTitle": "Blog",
@@ -15,19 +15,7 @@
         {
             "url": "https://github.com/horyzontalhoror/",
             "text": "GitHub"
-        },
-        {
-            "url": "#",
-            "text": "Bluesky"
-        },
-        {
-            "url": "#",
-            "text": "LinkedIn"
-        },
-        {
-            "url": "#",
-            "text": "CodePen"
         }
     ],
-    "editThisPageRootUrl": "https://github.com/horyzontalhoror/blob/main"
+    "editThisPageRootUrl": "https://github.com/Horyzontalhoror/horyzontalhoror.github.io/blob/main"
 }
