@@ -17,7 +17,7 @@ tags:
 - [cineplay](https://www.cineplay.to)
 - [zstream](https://zstream.mov)
 - [rivestream](https://www.rivestream.app)
-- [bcine](https://bcine.ru)
+- [cinejoy](https://cinejoy.to/)
 - [d21.team](https://d21.team)
 
 #### Drama
@@ -30,10 +30,28 @@ tags:
 - [Lendrive](https://lendrive.web.id/) - Dowloaad anime
 
 #### Embdeded Site
-
+- [VidSrc](https://vsembed.ru/)
+- [VidFast](https://vidfast.vc/)
+- [SuperEmbed](https://www.superembed.stream/)
+- [Auto Embed](https://autoembed.co/)
+- [HnEmbed](https://hnembed.com/)
+- [Peachify](https://peachify.top/)
+- [VidUP](https://vidup.to/)
+- [EmbedMaster](https://embedmaster.com/)
+- [PrimeSrc](https://primesrc.me/)
+- [MoviesAPI ](https://moviesapi.to/)
+- [Vidking](https://www.vidking.net/) - TMDb ID
+- [VIDEASY](https://www.videasy.to/) -  TMDb ID
+- [VidRock](https://vidrock.ru/)
+- [XPass](https://play.xpass.top/)
 
 #### Embeded
 - [Multiembed](https://multiembed.com/)
+
+#### Movie Identify
+- [Movie Identifier](https://www.movie-identifier.com/)
+- [Shascene](https://shascene.com/)
+- [Vidscio](https://www.vidscio.com/)
 
 #### Video Players
 - [mpv](https://mpv.io/), [Build](https://mpv-easy.github.io/mpv-build/) - Minimalis 
