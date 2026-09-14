@@ -5,8 +5,11 @@ eleventyExcludeFromCollections: true
 /* ICONS */
 [class*="icon-"] {
     background-color: currentColor;
+    -webkit-mask-position: center;
     mask-position: center;
+    -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
     mask-size: contain;
     width: 1em;
     height: 1em;
@@ -15,10 +18,12 @@ eleventyExcludeFromCollections: true
 }
 {% for iconName in libdocSystem.icons %}
 .icon-{{ iconName }} {
-    mask-image: url('{{ libdocConfig.htmlBasePathPrefix }}/core/assets/icons/{{ iconName }}.svg');
+    -webkit-mask-image: url('../icons/{{ iconName }}.svg');
+    mask-image: url('../icons/{{ iconName }}.svg');
 }
 {% endfor %}
 main a[href^="https://"]:not([href^="https://eleventy-libdoc"])::after,
 main a.__external-link::after {
-    mask-image: url('{{ libdocConfig.htmlBasePathPrefix }}/core/assets/icons/arrow-square-out.svg');
+    -webkit-mask-image: url('../icons/arrow-square-out.svg');
+    mask-image: url('../icons/arrow-square-out.svg');
 }

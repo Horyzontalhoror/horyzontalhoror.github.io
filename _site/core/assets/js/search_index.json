@@ -1,5 +1,10 @@
 [
             {
+                "url": "/tags/windows",
+                "title": "Tag windows",
+                "content": " windows "
+            },
+            {
                 "url": "/tags/disclaimer",
                 "title": "Tag disclaimer",
                 "content": " disclaimer "
@@ -15,14 +20,14 @@
                 "content": " Ai "
             },
             {
-                "url": "/tags/Audio",
-                "title": "Tag Audio",
-                "content": " Audio "
-            },
-            {
                 "url": "/tags/Develop",
                 "title": "Tag Develop",
                 "content": " Develop "
+            },
+            {
+                "url": "/tags/Audio",
+                "title": "Tag Audio",
+                "content": " Audio "
             },
             {
                 "url": "/tags/Download",
@@ -50,19 +55,19 @@
                 "content": " Lainnya "
             },
             {
-                "url": "/tags/Reading",
-                "title": "Tag Reading",
-                "content": " Reading "
-            },
-            {
                 "url": "/tags/Stream",
                 "title": "Tag Stream",
                 "content": " Stream "
             },
             {
-                "url": "/tags/windows",
-                "title": "Tag windows",
-                "content": " windows "
+                "url": "/tags/Reading",
+                "title": "Tag Reading",
+                "content": " Reading "
+            },
+            {
+                "url": "/tags/file",
+                "title": "Tag file",
+                "content": " file "
             },
         {
             "url": "/posts/disclaimer/",
@@ -77,7 +82,7 @@
         {
             "url": "/tags/",
             "title": "./core/libdoc_tags.liquid",
-            "content": "  disclaimer 1 page Hello! 1 page Ai 1 page Audio 1 page Develop 1 page Download 1 page Game 1 page Internet 1 page Keamanan 1 page Lainnya 1 page Reading 1 page Stream 1 page windows 1 page"
+            "content": "  windows 2 pages disclaimer 1 page Hello! 1 page Ai 1 page Develop 1 page Audio 1 page Download 1 page Game 1 page Internet 1 page Keamanan 1 page Lainnya 1 page Stream 1 page Reading 1 page file 1 page"
         },
         {
             "url": "/",
@@ -87,42 +92,42 @@
         {
             "url": "/windows/",
             "title": "windows!",
-            "content": " windows WindowsSoftware Download - Download windowsUup - Windows 11 UpgradeGenuine Installation Media - Download Windows / OfficeWindows Install / Debloat Guide - Windows guidesProcess Explorer - Alternative Task managerProcess HackerPrivacy - Privacy scriptSysteminformerWindows Utilities / TweaksWinutil - Chris Titus Tech&#39;s Windows utilityAwesome Win11 - Windows 11 settings, tweaks, scriptsShould I remove it - Guide to check and remove bloatwareMassgrave - Microsoft Activation Scripts (MAS)God Mode - Enable God Mode in WindowsWindows 11 Tweaks - Windows 11 tweaksWinaerotweaker - TweakerWindows ToolsMicrosoft PowerToysHwinfo - System Info &amp;amp; MonitoringG-helper - Lightweight control tool for AsusWindhawk - Customize WindowsMacrocreator - Macro creator automation tool for WindowsAutohotkey - Scriptable automation tool for WindowsWindhawk - Customize WindowsMacrocreator - Macro creator automation tool for WindowsAutohotkey - Scriptable automation tool for WindowsCopyQ - Clipboard managerNVCleanstall - NVIDIA driver cleanerf.lux - Adjust screen color temperatureUninstallers / CleanersBulk Crap UninstallerUninstall Microsoft EdgePatchCleanerBleachbitRemote DesktopRustDesk - Open source remote desktop softwareHelpWire - Remote desktop softwareWindows Context MenuNilesoft SHELLiMA Menu - iMA Menu RemakeShell - Powerful context menu manager for Windows File ExplorerEasy Context MenuKando - Context menu managerAntivirusAv-ComparativesMalwarebytesForumsKasperskyAntivirusFile SearchingVoidtoolsFluent SearchAgent RansackPDFPDF gearSejda - PDF toolMEGA ToolsMegaMega Basterd - Download Quota BypassMega Account Generators - Account Gen / Ukuran Unggah Tak TerbatasFix ErrorEmailProtonThunderbirdHave I been pwned - Checks whether your email has been in a data breach.Disk ToolsRufus - Create bootable USB drivesWizTree - Disk space analyzerWinDirStat - Disk usage statistics viewerTreeSize - Disk space analyzerCrystalDiskMark - Disk benchmark toolCrystalDiskInfo - Disk health checkerValiDrive - Drive health checkerDiskpart - Disk partitioning toolVirtual MachinesVirtualboxVMware workstationHyper-VWSLWallpaper / Customization / ThemesRainmeterLively WallpaperWallhavenDownloaderWallpaper AbyssLive WallpaperDesktophutMoewallsWallegendVS ThemesAIO PhotosCatppuccin - ThemeDracula - ThemeUseful UtilitiesDirectXVcredistVcredistMicrosoft XNA"
+            "content": " windows WindowsSoftware Download - Download windowsUup - Windows 11 UpgradeGenuine Installation Media - Download Windows / OfficeWindows Install / Debloat Guide - Windows guidesProcess Explorer - Alternative Task managerProcess HackerPrivacy - Privacy scriptSysteminformerWindows Utilities / TweaksWinutil - Chris Titus Tech&#39;s Windows utilityAwesome Win11 - Windows 11 settings, tweaks, scriptsShould I remove it - Guide to check and remove bloatwareMassgrave - Microsoft Activation Scripts (MAS)God Mode - Enable God Mode in WindowsWindows 11 Tweaks - Windows 11 tweaksWinaerotweaker - TweakerWindows ToolsMicrosoft PowerToysHwinfo - System Info &amp;amp; MonitoringG-helper - Lightweight control tool for AsusWindhawk - Customize WindowsMacrocreator - Macro creator automation tool for WindowsAutohotkey - Scriptable automation tool for WindowsWindhawk - Customize WindowsMacrocreator - Macro creator automation tool for WindowsAutohotkey - Scriptable automation tool for WindowsCopyQ - Clipboard managerNVCleanstall - NVIDIA driver cleanerf.lux - Adjust screen color temperatureUninstallers / CleanersBulk Crap UninstallerUninstall Microsoft EdgePatchCleanerBleachbitRemote DesktopRustDesk - Open source remote desktop softwareHelpWire - Remote desktop softwareWindows Context MenuNilesoft SHELLiMA Menu - iMA Menu RemakeShell - Powerful context menu manager for Windows File ExplorerEasy Context MenuKando - Context menu managerAntivirusAv-ComparativesMalwarebytesForumsKasperskyAntivirusEmailProtonThunderbirdHave I been pwned - Checks whether your email has been in a data breach.Disk ToolsRufus - Create bootable USB drivesWizTree - Disk space analyzerWinDirStat - Disk usage statistics viewerTreeSize - Disk space analyzerCrystalDiskMark - Disk benchmark toolCrystalDiskInfo - Disk health checkerValiDrive - Drive health checkerDiskpart - Disk partitioning toolVirtual MachinesVirtualboxVMware workstationHyper-VWSLImage EditingGimpPhotopeaPixlrPremium Content RemoverUnlimited Saves / 2Remove.bgAI Image ToolsUpscayl - AI Image UpscalingBn Bloat - alternative PinterestVideo EditingShotcutDaVinci ResolveWide VideoWallpaper / Customization / ThemesRainmeterLively WallpaperWallhavenDownloaderWallpaper AbyssLive WallpaperDesktophutMoewallsWallegendVS ThemesAIO PhotosCatppuccin - ThemeDracula - ThemeUseful UtilitiesDirectXVcredistVcredistMicrosoft XNA"
         },
         {
             "url": "/AI/",
             "title": "Ai!",
-            "content": " Ai Chat BotGemini - Google ChatbotsAi studio - Google&#39;s AI StudioChatgpt - Open AIqwen - Alibaba&#39;s Chatbotdeepseek - DeepSeek AIGrok - X.com AICopilot - Microsoft AIChat GPTChatGPT - Open AIAsk from ChatGPT - Browser extensionAI ToolTheresanaiforthat - AI tool directoryLocal AIComfy.org - ComfyUIInstallation guide - GitHub installation guideComfyUI-Easy-Use - Easy to use ComfyUIRunComfy - Online ComfyUIComfyUI_IPAdapter_plus - IPAdapter plugin for ComfyUIOllama - Local AIModel searchLlama App - Local AIGitHubReddit guide / Blog guide - Comprehensive guides"
+            "content": " Ai Chat BotGemini - Google ChatbotsAi studio - Google&#39;s AI StudioChatgpt - Open AIAsk from ChatGPT - Browser extensionqwen - Alibaba&#39;s Chatbotdeepseek - DeepSeek AIGrok - X.com AICopilot - Microsoft AIMeta AIAI ToolTheresanaiforthat - AI tool directoryHuggingface - model hostingHuggingbay - alternate untuk huggingfaceLocal AIComfy.org - ComfyUIInstallation guide - GitHub installation guideComfyUI-Easy-Use - Easy to use ComfyUIRunComfy - Online ComfyUIComfyUI_IPAdapter_plus - IPAdapter plugin for ComfyUIOllama - Local AIModel searchLlama App - Local AIGitHubReddit guide / Blog guide - Comprehensive guidesText-to-SpeechTTSMakertext-to-speech.onlineElevenLabs"
         },
         {
             "url": "/Audio/",
             "title": "Audio!",
-            "content": " Audio DAWAbletonFL StudioLogicPro ToolsCubaseVST / SamplePlugintorrent - VST plugin repositoryAudiostorrent - Audio sample repositorySamplefocus - Sample library repositoryLooperman - Loop libraryG-meh - Sample library4download - Audio sample repositorySampledrive - Sample library repositoryStem SplitterFadr - Stem splitterLalals - Stem splitter"
+            "content": " Audio Audio PlayerFoobar2000AIMP, AddonsMetadataMP3TagDAWAbletonFL StudioLogicPro ToolsCubaseVST / SamplePlugintorrent - VST plugin repositoryAudiostorrent - Audio sample repositorySamplefocus - Sample library repositoryLooperman - Loop libraryG-meh - Sample library4download - Audio sample repositorySampledrive - Sample library repositoryKits4beats - Sample library repositoryOrange Free Sounds - Sound effects libraryStem SplitterFadr - Stem splitterLalals - Stem splitter"
         },
         {
             "url": "/Reading/",
             "title": "Reading!",
-            "content": " Reading KomikReadcomiconline - Situs komik onlineGetcomics - Situs komik onlineKomik Cse - Pencarian Komik Multi-SitusMangaMangadex - Situs manga onlineMangadex-download - Unduh manga dari MangaDex.orgScript - Script unduh mangaManga CSE - Pencarian Manga Multi-SitusCse 2Ballons Translator - Penerjemah MangaCotransReading ToolsCalibrePluginsPlugins for MobileComicRack Community EditionPemerogramanfree-programming-books - Kumpulan buku bahasa pemerograman"
+            "content": " Reading KomikReadcomiconline - Situs komik onlineGetcomics - Situs komik onlineKomik Cse - Pencarian Komik Multi-SitusMangaMangadex - Situs manga onlineMangadex-download - Unduh manga dari MangaDex.orgScript - Script unduh mangaManga CSE - Pencarian Manga Multi-SitusCse 2Ballons Translator - Penerjemah MangaCotransReading ToolsCalibrePluginsPlugins for MobileComicRack Community EditionPemerogramanfree-programming-books - Kumpulan buku bahasa pemerogramanAnotherPustaka Langka"
         },
         {
             "url": "/Develop/",
             "title": "Develop!",
-            "content": " Develop DevFree for Developers - Daftar layanan gratis untuk developerReal favicon generator - Pembuat faviconFrameworkCodeigniter - Framework PHPGuideJekyll - Static site generatorjekyll AdminChirpy Theme ThemeLaravel - Framework PHPGithubDocsNext.js - Framework ReactVitepress - Framework dokumentasiSoftware FrameworkElectron - Framework untuk membuat aplikasi desktop berbasis HTML, CSS, dan JavaScript.GithubWeb TolBuilt with - Mengetahui teknologi yang digunakan oleh website"
+            "content": " Develop ToolsGithubGit / Git LFSBookgit-guide, GithubGitKraken / github-desktop - GUI GitIDE &amp;amp; Text EditorsVs code / vscodium - IDEExtensionsCursor / Devin / antigravity - AI EditorNotepad++ / Notepads / Geany - NotepadDockerDockerlaravel-docker - Template Laravel + DockerPHPDocker - Docker containers for PHPWeb ToolFree for Developers - Daftar layanan gratis untuk developerReal favicon generator - Pembuat faviconBuilt with - Mengetahui teknologi yang digunakan oleh websiteFrameworkCodeigniter - Framework PHPGuideJekyll - Static site generatorjekyll AdminChirpy Theme ThemeLaravel - Framework PHPGithubDocsNext.js - Framework ReactVitepress - Framework dokumentasiSoftware FrameworkElectron - Framework untuk membuat aplikasi desktop berbasis HTML, CSS, dan JavaScript.Github"
         },
         {
             "url": "/Game/",
             "title": "Game!",
-            "content": " Game Blokir iklan denga Ad Blcok, Gunakan Download Manager untuk mengunduh file. Install Useful Tools sebelum menjalankan gameGaming UtilityBefore I PlayCan you RUN ItGame Recommendation EngineGame StoreSteamSteamDB - EkstensiFree packagesGOGGOG to FreeItchGG DealsGame LauncherPlayniteaddonsHydralauncher - Crack LauncherLibraryFree GamesIsThereAnyDealFree250Itch.ioDLC UnlockerCream Installer - Cream APIGithubIntroductionDownloadSteamggGamebountyGog-gamesAnkergamesFitgirl-repacksElamigos - Tersedia juga di ova gamesOva games - Password: www.ovagames.comankergamesSteamriphizsearch - search gameMod ManagerVortex - Nexus Mod managerMod Organizer 2SkyrimSupported gamesDiscordModding websiteNexus modsFar Cry Modding - Far Cry 3, 4, 5, 6, Primal, NDDiscordGamebananaGTA ModGTA V modsGta insideWabbajack - Modlist Installer Otomatis untuk Game BethesdaDiscordWikiSteam Workshop - download steam workshopAltCurseforgeMod - Moddb baruModdb - Komunitas mod game tertua yang menghubungkan pemain, pengembang, dan ide kreatif.TrainerCheat EngineFLiNGMrAntiFunWeModWeMod CrackCheat EvolutionFearLess - Community Cheat Tables untuk Cheat EngineCseTrainer - Multi Site Trainer Search"
+            "content": " Game Blokir iklan denga Ad Blcok, Gunakan Download Manager untuk mengunduh file. Install Useful Tools sebelum menjalankan gameGaming UtilityBefore I PlayCan you RUN ItGame Recommendation EngineGame StoreSteamSteamDB - EkstensiFree packagesGOGGOG to FreeItchGG DealsGame LauncherPlayniteaddonsHydralauncher - Crack LauncherLibraryFree GamesIsThereAnyDealFree250Itch.ioDLC UnlockerCream Installer - Cream APIGithubIntroductionDownloadSteamggGamebountyGog-gamesAnkergamesFitgirl-repacksFake FitgirlElamigos - Tersedia juga di ova gamesOva games - Password: www.ovagames.comankergamesSteamriphizsearch - search gamePirated Games Mega ThreadGuidesMod ManagerVortex - Nexus Mod managerMod Organizer 2SkyrimSupported gamesDiscordModding websiteNexus modsFar Cry Modding - Far Cry 3, 4, 5, 6, Primal, NDDiscordGamebananaGTA ModGTA V modsGta insideWabbajack - Modlist Installer Otomatis untuk Game BethesdaDiscordWikiSteam Workshop - download steam workshopAltCurseforgeMod - Moddb baruModdb - Komunitas mod game tertua yang menghubungkan pemain, pengembang, dan ide kreatif.TrainerCheat EngineFLiNGMrAntiFunWeModWeMod CrackCheat EvolutionFearLess - Community Cheat Tables untuk Cheat EngineCseTrainer - Multi Site Trainer Search"
         },
         {
             "url": "/Internet/",
             "title": "Internet!",
-            "content": " Internet Gunakan Download Manager untuk mengunduh file.Ad blockuBlockLiteAdguardBrowserPrivacy Tests.org - Perrbandingan BrowserComparison of Web BrowsersMozillaTor project - Onion BrowserMullvadBraveLibrewolfWeb ToolPagespeedWeb OproxyVpn mentorProxyium - Proxy web gratis untuk akses anonim dan aman.Search EnginespSearch - Piracy Multi-Search ToolWeb-sites-searchAiosearch - Multi-Site SearchDuckduckgoDuckduckgo BangsYandexSearchengine.pertyMullvad LetaStartpageAI Search EnginesPerplexityImage Search EnginesYandex ImagesTineyeSearch by imageSaucenaoGoogle ImagesSmartImageEkstensi BrowserSearch AllImmersive translatePopup Blocker (strict)Chrome Currency ConverterPassword ManagersBitwardenKeepassxcProtonbypass shortlinksBypass All ShortlinksBypass-vipWebsiteShort LinkIs.gdAnon.to - URL AnonimUserscript managerViolentmonkeyTampermonkeyGreasespotFireMonkeyUser ScriptFMHY Base64 - Base64 DekoderSmall Window Preview - pop upPagetual - Perpetual pages. Auto loading paginated web pagesUnedit and Undelete for RedditLinkify Plus PlusYoutube shorts redirectNot interested - YT: not interested in one click"
+            "content": " Internet Gunakan Download Manager untuk mengunduh file.Ad blockuBlockLiteapply filtersAdguardBrowserPrivacy Tests.org - Perrbandingan BrowserComparison of Web BrowsersMozillaTor project - Onion BrowserMullvadBraveLibrewolfWeb ToolPagespeedWeb OproxyVpn mentorProxyium - Proxy web gratis untuk akses anonim dan aman.Search EnginespSearch - Piracy Multi-Search ToolWeb-sites-searchAiosearch - Multi-Site SearchDuckduckgoDuckduckgo BangsYandexSearchengine.pertyMullvad LetaStartpageAI Search EnginesPerplexityImage Search EnginesYandex ImagesTineyeSearch by imageSaucenaoGoogle ImagesSmartImageEkstensi BrowserSearch AllImmersive translatePopup Blocker (strict)Chrome Currency ConverterLibRedirectextensionPassword ManagersBitwardenKeepassxcProtonbypass shortlinksBypass All ShortlinksBypass-vipWebsiteShort LinkIs.gdAnon.to - URL AnonimUserscript managerViolentmonkeyTampermonkeyGreasespotFireMonkeyUser ScriptFMHY Base64 - Base64 DekoderSmall Window Preview - pop upPagetual - Perpetual pages. Auto loading paginated web pagesUnedit and Undelete for RedditLinkify Plus PlusYoutube shorts redirectNot interested - YT: not interested in one click"
         },
         {
             "url": "/Stream/",
             "title": "Stream!",
-            "content": " Stream Blokir iklan denga Ad BlcokFilm / SeriesPusatfilm21UflixXprimeNoxxTinyzoneMyflixerSeriesTurkish123 - Drama Turki Sub EngGoplaySitus Torrent1337xYtsYify statuscopy magnetIMDb-Scout-ModRekomendasi PilihanFlickmetrix - Gabungin rating dari IMDb, Rotten Tomatoes, dan LetterboxdYoutubeSponsor BlockDownloadDearrow (anti-clickbait)Playlists Playlist CreatorYouTube / Spotify DLGUI&#39;s for yt-dlp / youtube-dlYt-dlpSkripFFmpegSpotify Downloader - Unduh playlist dan lagu Spotify Anda lengkap dengan sampul album dan metadata.DocumentationVideo Downloader9xbuddyYou Tubeyoutube-dlp-gui-installerytdlp-interface"
+            "content": " Stream Blokir iklan denga Ad BlcokFilm / Seriescineplayzstreamrivestreamcinejoyd21.teamDramaTurkish123 - Drama Turki Sub EngGoplaynontondramaAnimeSamehadakuLendrive - Dowloaad animeEmbdeded SiteVidSrcVidFastSuperEmbedAuto EmbedHnEmbedPeachifyVidUPEmbedMasterPrimeSrcMoviesAPI Vidking - TMDb IDVIDEASY - TMDb IDVidRockXPassEmbededMultiembedMovie IdentifyMovie IdentifierShasceneVidscioVideo Playersmpv, Build - MinimalisMPC-HC / MPC-BE - SimplePotPlayer - Banyak fiturVLC - VersatileFast Stream - Stream BufferlessDatabase / toolThe Movie Database (TMDB) - Movie databaseIMDb - Movie databaseEMDB - Movie database toolJellyfin - Media serverKodi - Media playerSitus Torrent1337xYtsYify statuscopy magnetIMDb-Scout-ModSubtitleOpenSubtitles / 2subdlsubsourceSubsceneAddic7edgestdownyts-subsWyzieAI Subtitle / ToolWhisper-WebUIUniversal SRT GeneratorFaster-WhisperSubtitle EditRekomendasi PilihanFlickmetrix - rating dari IMDb, Rotten Tomatoes, dan LetterboxdYoutubeSponsor BlockDownloadDearrow (anti-clickbait)Playlists Playlist Creatorytsubdl - grab youtube subtitleYouTube / Spotify DLGUI&#39;s for yt-dlp / youtube-dlYt-dlpSkripFFmpegSpotify Downloader - Unduh playlist dan lagu Spotify Anda lengkap dengan sampul album dan metadata.DocumentationVideo Downloader9xbuddyYou Tubeyoutube-dlp-gui-installerytdlp-interface"
         },
         {
             "url": "/Keamanan/",
@@ -137,6 +142,11 @@
         {
             "url": "/Download/",
             "title": "Download!",
-            "content": " Download Download ManagersAB Download ManagerJDownloaderClean Installers - JDownloader 2 Clean Installers (No Adware!)EnhanceIDMInstruksiXtreme download managerFree Download ManagerMotrix Bisa unduh BitTorrent dan MagnetFile CentipedeActivation CodeGithubHTTP DownloaderSitesBlokir iklan denga Ad Blcok dan Gunakan Download Manager untuk mengunduh file.Virgil SamidyCracksurlMicrosoft Store - Microsoft StoreFluentStore - Microsoft Store FrontendDanstore / MSFT Store - Microsoft Store downloaderStore / StoreWeb - Link Generators untuk Microsoft StorePremium DownloaderSoftpediaSourceForgeUptodownAlternativeToWindows packages managersUniGetUI, ⭐GitHub: 3.3.7WingetWinstallScoopChocolatey, InstallPowershellgalleryTools7-Zip - File archiverWinRAR - File archiverPeaZip - File archiver"
+            "content": " Download Download ManagersAB Download ManagerJDownloaderClean Installers - JDownloader 2 Clean Installers (No Adware!)EnhanceDebloatIDMInstruksiXtreme download managerFree Download ManagerMotrix Bisa unduh BitTorrent dan MagnetFile CentipedeActivation CodeGithubHTTP DownloaderSitesBlokir iklan denga Ad Blcok dan Gunakan Download Manager untuk mengunduh file.Virgil SamidyCracksurlMicrosoft Store - Microsoft StoreFluentStore - Microsoft Store FrontendDanstore / MSFT Store - Microsoft Store downloaderStore / StoreWeb - Link Generators untuk Microsoft StorePremium DownloaderSoftpediaSourceForgeUptodownAlternativeToWindows packages managersUniGetUI, ⭐GitHub: 3.3.7WingetWinstallScoopChocolatey, InstallPowershellgalleryTools7-Zip - File archiverWinRAR, Remove pop-up - File archiverPeaZip - File archiver"
+        },
+        {
+            "url": "/hello-page/hello-child/",
+            "title": "File!",
+            "content": " windows file File ToolCloudConvert / VERT - Online file converterFile converter - File converterCzkawka - Duplicate file finderFile SearchingVoidtoolsFluent SearchAgent RansackFile TransferLocalSendWeb LocalSendPairdropSyncthingAndroidPDFPDF gearSejda - PDF toolPDF24MEGA ToolsMegaMega Basterd - Download Quota BypassMega Account Generators - Account Gen / Ukuran Unggah Tak TerbatasFix Error"
         }
 ]

@@ -116,7 +116,8 @@
     <style>
         {%- for iconName in libdocSystem.icons -%}
             .icon-{{ iconName }} {
-                mask-image: url('{{ libdocConfig.htmlBasePathPrefix }}/core/assets/icons/{{ iconName }}.svg');
+                -webkit-mask-image: url('{{ libdocConfig.htmlBasePathPrefix | append: "core/assets/icons/" | append: iconName | append: ".svg" | replace: "//", "/" }}');
+                mask-image: url('{{ libdocConfig.htmlBasePathPrefix | append: "core/assets/icons/" | append: iconName | append: ".svg" | replace: "//", "/" }}');
             }
         {%- endfor -%}
     </style>
