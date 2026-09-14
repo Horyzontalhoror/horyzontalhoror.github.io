@@ -5,3 +5,4 @@ node_modules
 _data/envlocal.json
 .env
 /assets/___dummy_content
+_site/
