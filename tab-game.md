@@ -56,6 +56,8 @@ tags:
 - [ankergames](https://ankergames.net/)
 - [Steamrip](https://steamrip.com/)
 - [hizsearch](https://hizsearch.pages.dev/) - search game
+- [Pirated Games Mega Thread](https://rentry.org/pgames) 
+  - [Guides](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/megathread.md)
 
 #### Mod Manager
 - [Vortex](https://www.nexusmods.com/about/vortex) - Nexus Mod manager

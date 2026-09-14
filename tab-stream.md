@@ -82,6 +82,7 @@ tags:
 - [Addic7ed](https://www.addic7ed.com/)
 - [gestdown](https://www.gestdown.info/)
 - [yts-subs](https://yts-subs.com/)
+- [Wyzie](https://sub.wyzie.io/download)
 
 #### AI Subtitle / Tool
 - [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI)

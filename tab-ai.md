@@ -24,6 +24,8 @@ tags:
 
 #### AI Tool
 - [Theresanaiforthat](https://theresanaiforthat.com/) - AI tool directory
+- [Huggingface](https://huggingface.co/models) - model hosting
+  - [Huggingbay](https://huggingbay.xyz/) - alternate untuk huggingface
 
 #### Local AI
 - [Comfy.org](https://comfy.org/download) - ComfyUI

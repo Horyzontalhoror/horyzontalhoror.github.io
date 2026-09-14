@@ -45,12 +45,6 @@ tags:
 - [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVIDIA driver cleaner
 - [f.lux](https://justgetflux.com/) - Adjust screen color temperature
 
-#### File Tool
-- [CloudConvert](https://cloudconvert.com/) / [VERT](https://vert.sh/) - Online file converter
-- [File converter](https://file-converter.io/) - File converter
-- [Czkawka](https://github.com/qarmin/czkawka) - Duplicate file finder
-
-
 #### Uninstallers / Cleaners
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
 - [Uninstall Microsoft Edge](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)
@@ -74,21 +68,6 @@ tags:
   - [Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/)
 - [Kaspersky](https://www.kaspersky.com/downloads/antivirus)
 - [Antivirus](https://old.reddit.com/r/antivirus/wiki/index#wiki_anti-virus_.28aka_anti-malware.29_developers)
-
-#### File Searching
-- [Voidtools](https://voidtools.com/)
-- [Fluent Search](https://fluentsearch.net/)
-- [Agent Ransack](https://www.mythicsoft.com/agentransack/)
-
-#### PDF
-- [PDF gear](https://www.pdfgear.com/)
-- [Sejda](https://www.sejda.com/) - PDF tool
-
-#### MEGA Tools
-- [Mega](https://mega.io/)
-- [Mega Basterd](https://github.com/tonikelope/megabasterd) - Download Quota Bypass
-- [Mega Account Generators](https://rentry.co/fmhybase64#mega-gen) - Account Gen / Ukuran Unggah Tak Terbatas
-  - [Fix Error](https://rentry.co/mega_account_generator)
 
 #### Email
 - [Proton](https://proton.me/mail)
