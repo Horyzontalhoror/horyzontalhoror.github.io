@@ -236,9 +236,13 @@ main a[href^="https://"]:not([href^="https://eleventy-libdoc"])::after,
 main a.__external-link::after {
     content: '';
     background-color: currentColor;
-    mask-image: url('/core/assets/icons/arrow-square-out.svg');
+    -webkit-mask-image: url('../icons/arrow-square-out.svg');
+    mask-image: url('../icons/arrow-square-out.svg');
+    -webkit-mask-position: center;
     mask-position: center;
+    -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
     mask-size: contain;
     width: 1em;
     height: 1em;
@@ -569,9 +573,13 @@ main > details summary::before,
 main > *:not(header) details summary::before {
     content: '';
     background-color: currentColor;
-    mask-image: url('/core/assets/icons/plus-circle.svg');
+    -webkit-mask-image: url('../icons/plus-circle.svg');
+    mask-image: url('../icons/plus-circle.svg');
+    -webkit-mask-position: center;
     mask-position: center;
+    -webkit-mask-repeat: no-repeat;
     mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
     mask-size: contain;
     width: 1em;
     height: 1em;
@@ -581,7 +589,8 @@ main > *:not(header) details summary::before {
 }
 main > details[open] summary::before,
 main > *:not(header) details[open] summary::before {
-    mask-image: url('/core/assets/icons/minus-circle.svg');
+    -webkit-mask-image: url('../icons/minus-circle.svg');
+    mask-image: url('../icons/minus-circle.svg');
 }
 main > details:has(+ details) summary,
 main > details + details summary,

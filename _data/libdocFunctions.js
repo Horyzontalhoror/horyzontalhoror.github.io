@@ -247,7 +247,8 @@ export default {
             if (isSystemIcon) {
                 markup = `<span class="icon-${iconName} fs-${dsFontSize}"></span>`;
             } else {
-                markup = `<span class="icon- fs-${dsFontSize}" style="mask-image: url('${libdocConfig.htmlBasePathPrefix}${iconName}')"></span>`;
+                const iconPath = (libdocConfig.htmlBasePathPrefix + '/' + iconName).replace(/\/+/g, '/');
+                markup = `<span class="icon- fs-${dsFontSize}" style="-webkit-mask-image: url('${iconPath}'); mask-image: url('${iconPath}')"></span>`;
             }
             return markup;
         },
@@ -259,9 +260,11 @@ export default {
                 if (isSystemIcon) {
                     iconMarkup = `<span class="icon-${iconName} fs-10 | c-primary-500" fs-8="xs"></span>`;
                 } else {
+                    const fallbackIcon = iconName || '/core/assets/icons/check-circle.svg';
+                    const iconPath = (libdocConfig.htmlBasePathPrefix + '/' + fallbackIcon).replace(/\/+/g, '/');
                     iconMarkup = `<span class="icon- fs-10 | c-primary-500"
                             fs-8="xs"
-                            style="mask-image: url('${libdocConfig.htmlBasePathPrefix}${iconName || `/core/assets/icons/check-circle.svg`}')"></span>`;
+                            style="-webkit-mask-image: url('${iconPath}'); mask-image: url('${iconPath}')"></span>`;
                 }
                 markup = `
                     <aside class="widget widget-iconCard">
