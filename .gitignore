@@ -6,3 +6,4 @@ _data/envlocal.json
 .env
 /assets/___dummy_content
 _site/
+/_site
