@@ -27,6 +27,12 @@ tags:
 - [Syncthing](https://syncthing.net/)
     - [Android](https://github.com/researchxxl/syncthing-android)
 
+#### File Archiver
+- [7-Zip](https://www.7-zip.org/) - File archiver
+  - [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd)
+- [WinRAR](https://www.win-rar.com/), [Remove pop-up](https://clarasguide.valeena.workers.dev/Guides/x3-rawr/) - File archiver
+- [PeaZip](https://peazip.github.io/) - File archiver
+
 #### PDF
 - [PDF gear](https://www.pdfgear.com/)
 - [Sejda](https://www.sejda.com/) - PDF tool

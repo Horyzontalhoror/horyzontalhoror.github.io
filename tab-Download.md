@@ -30,12 +30,12 @@ tags:
 #### Sites
 {% alert '**Blokir iklan denga [Ad Blcok](http://horyzontalhoror.github.io/Internet/#ad-block) dan Gunakan [Download Manager](http://horyzontalhoror.github.io/Download/#download-managers) untuk mengunduh file.**', 'info', 'Info' %}
 
-- [Virgil Samidy](https://virgil.samidy.com/Software/)
+- [Virgil Samidy](https://virgil.samidy.com/)
 - [Cracksurl](https://cracksurl.com/)
 - [Microsoft Store](https://apps.microsoft.com/apps?hl=en-US&gl=ID) - Microsoft Store
     - [FluentStore](https://github.com/yoshiask/FluentStore) - Microsoft Store Frontend
         - [Danstore](https://danstore-ms.vercel.app/) / [MSFT Store](https://msft-store.tplant.com.au/) - Microsoft Store downloader
-        - [Store](https://store.rg-adguard.net/) / [StoreWeb](https://msft-store.tplant.com.au/) - Link Generators untuk Microsoft Store
+        - [Store](https://store.rg-adguard.net/) - Link Generators untuk Microsoft Store
         - [Premium Downloader](https://rentry.co/paidAppsMsStore)
 - [Softpedia](https://www.softpedia.com/)
 - [SourceForge](https://sourceforge.net/)
@@ -49,8 +49,3 @@ tags:
 - [Scoop](https://scoop.sh/)
 - [Chocolatey](https://community.chocolatey.org/packages), [Install](https://chocolatey.org/install)
 - [Powershellgallery](https://www.powershellgallery.com/)
-
-#### Tools
-- [7-Zip](https://www.7-zip.org/) - File archiver
-- [WinRAR](https://www.win-rar.com/), [Remove pop-up](https://clarasguide.valeena.workers.dev/Guides/x3-rawr/) - File archiver
-- [PeaZip](https://peazip.github.io/) - File archiver
