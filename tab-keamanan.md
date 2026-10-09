@@ -19,6 +19,12 @@ tags:
 - [Hybrid-analysis](https://hybrid-analysis.com/)
 
 #### Url Scan
-- [Urlscan](https://urlscan.io/)    
+- [Urlscan](https://urlscan.io/)
 - [Cloudflare Radar](https://radar.cloudflare.com/)
 - [Scanurl](https://www.scanurl.me/)
+
+#### DNS / Blocklist
+- [DNSforfamily](https://dnsforfamily.com/)
+- [JudolGuard Blocklists](https://github.com/evozifans/judolguard-blocklists)- blocklist untuk judol
+    - [zfysora](https://dashboard.zfysora.com/)
+- [TrustPositif](https://github.com/alsyundawy/TrustPositif)

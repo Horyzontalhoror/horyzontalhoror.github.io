@@ -30,6 +30,8 @@ tags:
 - [God Mode](https://www.gamingpcbuilder.com/how-to-enable-god-mode-in-windows/) - Enable God Mode in Windows
 - [Windows 11 Tweaks](https://www.windowscentral.com/software-apps/windows-11/my-essential-windows-11-tweaks-22-settings-to-change) - Windows 11 tweaks
 - [Winaerotweaker](https://winaerotweaker.com/) - Tweaker
+- [optimizerDuck](https://optimizerduck.vercel.app/)
+  - [GitHub](https://github.com/itsfatduck/optimizerDuck)
 
 #### Windows Tools
 - [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
@@ -89,38 +91,6 @@ tags:
 - [VMware workstation](https://www.techpowerup.com/download/vmware-workstation-pro/)
 - [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/)
 - [WSL](https://learn.microsoft.com/en-us/windows/wsl/)
-
-#### Image Editing
-- [Gimp](https://www.gimp.org/)
-- [Photopea](https://www.photopea.com/)
-- [Pixlr](https://pixlr.com/)
-  - [Premium Content Remover](https://greasyfork.org/en/scripts/425737-pixlr-x-premium-content-remover)
-  - [Unlimited Saves](https://greasyfork.org/en/scripts/460881-pixlr-unlimited-saves) / [2](https://greasyfork.org/en/scripts/490940-pixlr-unlimited-saves-updated-26-03-2024)
-- [Remove.bg](https://www.remove.bg/)
-
-#### AI Image Tools
-- [Upscayl](https://upscayl.org/) - AI Image Upscaling
-- [Bn Bloat](https://bn.bloat.cat/) - alternative Pinterest
-
-#### Video Editing
-- [Shotcut](https://shotcut.org/)
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
-- [Wide Video](https://wide.video/)
-
-#### Wallpaper / Customization / Themes
-- [Rainmeter](https://www.rainmeter.net/)
-- [Lively Wallpaper](https://www.rocksdanister.com/lively/)
-- [Wallhaven](https://wallhaven.cc/)
-  - [Downloader](https://github.com/eramdam/WallbaseDirectDownloader?tab=readme-ov-file#wallhaven-direct-downloader)
-- [Wallpaper Abyss](https://wall.alphacoders.com/)
-- Live Wallpaper
-  - [Desktophut](https://www.desktophut.com/)
-  - [Moewalls](https://moewalls.com/)
-  - [Wallegend](https://wallegend.net/en/)
-  - [VS Themes](https://vsthemes.org/en/)
-- [AIO Photos](https://www.aiophotoz.com/)
-- [Catppuccin](https://catppuccin.com/) - Theme
-- [Dracula](https://draculatheme.com/) - Theme
 
 #### Useful Utilities
 - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)

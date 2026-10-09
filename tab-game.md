@@ -43,20 +43,18 @@ tags:
 - [Cream Installer](https://gofile.io/d/90Exof) - Cream API
   - [Github](https://github.com/sudojoao/CreamAPI)
   - [Introduction](https://rentry.co/ALink-CreamInstaller)
-  
 #### Download
 - [Steamgg](https://steamgg.net/)
 - [Gamebounty](https://gamebounty.world/)
-- [Gog-games](https://gog-games.to/)
+- [Gog-games 🪦](https://gog-games.to/) / [GoG Revived](https://gog-rev.com/)
 - [Ankergames](https://ankergames.net/)
 - [Fitgirl-repacks](https://fitgirl-repacks.site/)
   - [Fake Fitgirl](https://clarasguide.valeena.workers.dev/Guides/FakeFitgirlwebsites/)
 - [Elamigos](https://elamigos.site/) - Tersedia juga di ova games
 - [Ova games](https://www.ovagames.com/) - *Password:* `www.ovagames.com`
-- [ankergames](https://ankergames.net/)
 - [Steamrip](https://steamrip.com/)
-- [hizsearch](https://hizsearch.pages.dev/) - search game
-- [Pirated Games Mega Thread](https://rentry.org/pgames) 
+- [hizsearch](https://hizsearch.pages.dev/) / [Ravegamesearch](https://ravegamesearch.pages.dev/) - search game
+- [Games Mega Thread](https://rentry.org/pgames) - Megathread
   - [Guides](https://gitlab.com/ZediAlreadyTaken/guides/-/blob/main/megathread.md)
 
 #### Mod Manager

@@ -26,13 +26,14 @@ tags:
   - [Cotrans](https://cotrans.touhou.ai/)
 
 #### Reading Tools
-- [Calibre](https://calibre-ebook.com/)
+- [Calibre](https://calibre-ebook.com/) - ebook
   - [Plugins](https://plugins.calibre-ebook.com/)
   - [Plugins for Mobile](https://www.mobileread.com/forums/forumdisplay.php?f=237)
-- [ComicRack Community Edition](https://github.com/maforget/ComicRackCE)
+- [ComicRack Community Edition](https://github.com/maforget/ComicRackCE) - komik
+- [CDisplayEx](https://www.cdisplayex.com) - komik
 
 #### Pemerograman
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-id.md) - Kumpulan buku bahasa pemerograman
 
 #### Another 
-- [Pustaka Langka](https://langka.logosid.app/)
+- [Pustaka Langka](https://langka.logosid.app/) - Pustaka Langka Indonesia
