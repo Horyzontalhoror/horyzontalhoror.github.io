@@ -49,3 +49,14 @@ tags:
 #### Software Framework
 - [Electron](https://electronjs.org/) - Framework untuk membuat aplikasi desktop berbasis HTML, CSS, dan JavaScript.
   - [Github](https://github.com/electron/electron)
+
+#### Database Tool
+- [Docker](https://horyzontalhoror.github.io/Develop/#docker)
+- [Laravel Herd](https://herd.laravel.com/), [guide](https://medium.com/@nineminus2/finally-laravel-herd-and-dbngin-make-a-full-stack-environment-worth-loving-c1c2fc0d0afb) - Database untuk Laravel
+  - [DBngin](https://dbngin.com/) - kombinasi dengan Herd
+  - [Table Plus](https://tableplus.com/) - kombinasi dengan Herd
+- [DB Browser for SQLite](https://sqlitebrowser.org/) - untuk SQLite
+- [xampp](https://www.apachefriends.org/index.html)
+- [Wampserver](https://wampserver.aviatechno.net/)
+- [Laragon (6.0.0)](https://github.com/leokhoa/laragon/releases?page=2#release-6.0.0)
+  - [LaraGonzo](https://github.com/husnilkhatimi/laragonzo) - fork dari Laragon
