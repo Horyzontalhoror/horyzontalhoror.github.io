@@ -20,14 +20,14 @@
                 "content": " Ai "
             },
             {
-                "url": "/tags/Develop",
-                "title": "Tag Develop",
-                "content": " Develop "
-            },
-            {
                 "url": "/tags/Audio",
                 "title": "Tag Audio",
                 "content": " Audio "
+            },
+            {
+                "url": "/tags/Develop",
+                "title": "Tag Develop",
+                "content": " Develop "
             },
             {
                 "url": "/tags/Download",
@@ -55,14 +55,14 @@
                 "content": " Lainnya "
             },
             {
-                "url": "/tags/Stream",
-                "title": "Tag Stream",
-                "content": " Stream "
-            },
-            {
                 "url": "/tags/Reading",
                 "title": "Tag Reading",
                 "content": " Reading "
+            },
+            {
+                "url": "/tags/Stream",
+                "title": "Tag Stream",
+                "content": " Stream "
             },
             {
                 "url": "/tags/file",
@@ -82,17 +82,17 @@
         {
             "url": "/tags/",
             "title": "./core/libdoc_tags.liquid",
-            "content": "  windows 2 pages disclaimer 1 page Hello! 1 page Ai 1 page Develop 1 page Audio 1 page Download 1 page Game 1 page Internet 1 page Keamanan 1 page Lainnya 1 page Stream 1 page Reading 1 page file 1 page"
+            "content": "  windows 2 pages disclaimer 1 page Hello! 1 page Ai 1 page Audio 1 page Develop 1 page Download 1 page Game 1 page Internet 1 page Keamanan 1 page Lainnya 1 page Reading 1 page Stream 1 page file 1 page"
         },
         {
             "url": "/",
             "title": "Welcome!",
-            "content": "Hello, welcome to my website! Hello! DisclaimerTautan yang ada di halaman ini berasal dari pihak ketiga.Kami tidak menyimpan atau menghosting file apa pun.Aktivitas mengunduh, menggunakan, atau berinteraksi dengan tautan tersebut sepenuhnya menjadi tanggung jawab pengguna.Sebelum melanjutkan, pastikan dulu legalitas dan keamanannya agar tetap aman dan nyaman.Credit11tyFMHYMegatreads"
+            "content": "Hello, welcome to my website! Hello! DisclaimerTautan yang ada di halaman ini berasal dari pihak ketiga.Kami tidak menyimpan atau menghosting file apa pun.Aktivitas mengunduh, menggunakan, atau berinteraksi dengan tautan tersebut sepenuhnya menjadi tanggung jawab pengguna.Sebelum melanjutkan, pastikan dulu legalitas dan keamanannya agar tetap aman dan nyaman.Credit11tyFMHYMegatreadsReddit"
         },
         {
             "url": "/windows/",
             "title": "windows!",
-            "content": " windows WindowsSoftware Download - Download windowsUup - Windows 11 UpgradeGenuine Installation Media - Download Windows / OfficeWindows Install / Debloat Guide - Windows guidesProcess Explorer - Alternative Task managerProcess HackerPrivacy - Privacy scriptSysteminformerWindows Utilities / TweaksWinutil - Chris Titus Tech&#39;s Windows utilityAwesome Win11 - Windows 11 settings, tweaks, scriptsShould I remove it - Guide to check and remove bloatwareMassgrave - Microsoft Activation Scripts (MAS)God Mode - Enable God Mode in WindowsWindows 11 Tweaks - Windows 11 tweaksWinaerotweaker - TweakerWindows ToolsMicrosoft PowerToysHwinfo - System Info &amp;amp; MonitoringG-helper - Lightweight control tool for AsusWindhawk - Customize WindowsMacrocreator - Macro creator automation tool for WindowsAutohotkey - Scriptable automation tool for WindowsWindhawk - Customize WindowsMacrocreator - Macro creator automation tool for WindowsAutohotkey - Scriptable automation tool for WindowsCopyQ - Clipboard managerNVCleanstall - NVIDIA driver cleanerf.lux - Adjust screen color temperatureUninstallers / CleanersBulk Crap UninstallerUninstall Microsoft EdgePatchCleanerBleachbitRemote DesktopRustDesk - Open source remote desktop softwareHelpWire - Remote desktop softwareWindows Context MenuNilesoft SHELLiMA Menu - iMA Menu RemakeShell - Powerful context menu manager for Windows File ExplorerEasy Context MenuKando - Context menu managerAntivirusAv-ComparativesMalwarebytesForumsKasperskyAntivirusEmailProtonThunderbirdHave I been pwned - Checks whether your email has been in a data breach.Disk ToolsRufus - Create bootable USB drivesWizTree - Disk space analyzerWinDirStat - Disk usage statistics viewerTreeSize - Disk space analyzerCrystalDiskMark - Disk benchmark toolCrystalDiskInfo - Disk health checkerValiDrive - Drive health checkerDiskpart - Disk partitioning toolVirtual MachinesVirtualboxVMware workstationHyper-VWSLImage EditingGimpPhotopeaPixlrPremium Content RemoverUnlimited Saves / 2Remove.bgAI Image ToolsUpscayl - AI Image UpscalingBn Bloat - alternative PinterestVideo EditingShotcutDaVinci ResolveWide VideoWallpaper / Customization / ThemesRainmeterLively WallpaperWallhavenDownloaderWallpaper AbyssLive WallpaperDesktophutMoewallsWallegendVS ThemesAIO PhotosCatppuccin - ThemeDracula - ThemeUseful UtilitiesDirectXVcredistVcredistMicrosoft XNA"
+            "content": " windows WindowsSoftware Download - Download windowsUup - Windows 11 UpgradeGenuine Installation Media - Download Windows / OfficeWindows Install / Debloat Guide - Windows guidesProcess Explorer - Alternative Task managerProcess HackerPrivacy - Privacy scriptSysteminformerWindows Utilities / TweaksWinutil - Chris Titus Tech&#39;s Windows utilityAwesome Win11 - Windows 11 settings, tweaks, scriptsShould I remove it - Guide to check and remove bloatwareMassgrave - Microsoft Activation Scripts (MAS)God Mode - Enable God Mode in WindowsWindows 11 Tweaks - Windows 11 tweaksWinaerotweaker - TweakeroptimizerDuckGitHubWindows ToolsMicrosoft PowerToysHwinfo - System Info &amp;amp; MonitoringG-helper - Lightweight control tool for AsusWindhawk - Customize WindowsMacrocreator - Macro creator automation tool for WindowsAutohotkey - Scriptable automation tool for WindowsWindhawk - Customize WindowsMacrocreator - Macro creator automation tool for WindowsAutohotkey - Scriptable automation tool for WindowsCopyQ - Clipboard managerNVCleanstall - NVIDIA driver cleanerf.lux - Adjust screen color temperatureUninstallers / CleanersBulk Crap UninstallerUninstall Microsoft EdgePatchCleanerBleachbitRemote DesktopRustDesk - Open source remote desktop softwareHelpWire - Remote desktop softwareWindows Context MenuNilesoft SHELLiMA Menu - iMA Menu RemakeShell - Powerful context menu manager for Windows File ExplorerEasy Context MenuKando - Context menu managerEmailProtonThunderbirdHave I been pwned - Checks whether your email has been in a data breach.Disk ToolsRufus - Create bootable USB drivesWizTree - Disk space analyzerWinDirStat - Disk usage statistics viewerTreeSize - Disk space analyzerCrystalDiskMark - Disk benchmark toolCrystalDiskInfo - Disk health checkerValiDrive - Drive health checkerDiskpart - Disk partitioning toolVirtual MachinesVirtualboxVMware workstationHyper-VWSLUseful UtilitiesDirectXVcredistVcredistMicrosoft XNA"
         },
         {
             "url": "/AI/",
@@ -107,17 +107,17 @@
         {
             "url": "/Reading/",
             "title": "Reading!",
-            "content": " Reading KomikReadcomiconline - Situs komik onlineGetcomics - Situs komik onlineKomik Cse - Pencarian Komik Multi-SitusMangaMangadex - Situs manga onlineMangadex-download - Unduh manga dari MangaDex.orgScript - Script unduh mangaManga CSE - Pencarian Manga Multi-SitusCse 2Ballons Translator - Penerjemah MangaCotransReading ToolsCalibrePluginsPlugins for MobileComicRack Community EditionPemerogramanfree-programming-books - Kumpulan buku bahasa pemerogramanAnotherPustaka Langka"
+            "content": " Reading KomikReadcomiconline - Situs komik onlineGetcomics - Situs komik onlineKomik Cse - Pencarian Komik Multi-SitusMangaMangadex - Situs manga onlineMangadex-download - Unduh manga dari MangaDex.orgScript - Script unduh mangaManga CSE - Pencarian Manga Multi-SitusCse 2Ballons Translator - Penerjemah MangaCotransReading ToolsCalibre - ebookPluginsPlugins for MobileComicRack Community Edition - komikCDisplayEx - komikPemerogramanfree-programming-books - Kumpulan buku bahasa pemerogramanAnotherPustaka Langka - Pustaka Langka Indonesia"
         },
         {
             "url": "/Develop/",
             "title": "Develop!",
-            "content": " Develop ToolsGithubGit / Git LFSBookgit-guide, GithubGitKraken / github-desktop - GUI GitIDE &amp;amp; Text EditorsVs code / vscodium - IDEExtensionsCursor / Devin / antigravity - AI EditorNotepad++ / Notepads / Geany - NotepadDockerDockerlaravel-docker - Template Laravel + DockerPHPDocker - Docker containers for PHPWeb ToolFree for Developers - Daftar layanan gratis untuk developerReal favicon generator - Pembuat faviconBuilt with - Mengetahui teknologi yang digunakan oleh websiteFrameworkCodeigniter - Framework PHPGuideJekyll - Static site generatorjekyll AdminChirpy Theme ThemeLaravel - Framework PHPGithubDocsNext.js - Framework ReactVitepress - Framework dokumentasiSoftware FrameworkElectron - Framework untuk membuat aplikasi desktop berbasis HTML, CSS, dan JavaScript.Github"
+            "content": " Develop ToolsGithubGit / Git LFSBookgit-guide, GithubGitKraken / github-desktop - GUI GitIDE &amp;amp; Text EditorsVs code / vscodium - IDEExtensionsCursor / Devin / antigravity - AI EditorNotepad++ / Notepads / Geany - NotepadDockerDockerlaravel-docker - Template Laravel + DockerPHPDocker - Docker containers for PHPWeb ToolFree for Developers - Daftar layanan gratis untuk developerReal favicon generator - Pembuat faviconBuilt with - Mengetahui teknologi yang digunakan oleh websiteFrameworkCodeigniter - Framework PHPGuideJekyll - Static site generatorjekyll AdminChirpy Theme ThemeLaravel - Framework PHPGithubDocsNext.js - Framework ReactVitepress - Framework dokumentasiSoftware FrameworkElectron - Framework untuk membuat aplikasi desktop berbasis HTML, CSS, dan JavaScript.GithubDatabase ToolDockerLaravel Herd, guide - Database untuk LaravelDBngin - kombinasi dengan HerdTable Plus - kombinasi dengan HerdDB Browser for SQLite - untuk SQLitexamppWampserverLaragon (6.0.0)LaraGonzo - fork dari Laragon"
         },
         {
             "url": "/Game/",
             "title": "Game!",
-            "content": " Game Blokir iklan denga Ad Blcok, Gunakan Download Manager untuk mengunduh file. Install Useful Tools sebelum menjalankan gameGaming UtilityBefore I PlayCan you RUN ItGame Recommendation EngineGame StoreSteamSteamDB - EkstensiFree packagesGOGGOG to FreeItchGG DealsGame LauncherPlayniteaddonsHydralauncher - Crack LauncherLibraryFree GamesIsThereAnyDealFree250Itch.ioDLC UnlockerCream Installer - Cream APIGithubIntroductionDownloadSteamggGamebountyGog-gamesAnkergamesFitgirl-repacksFake FitgirlElamigos - Tersedia juga di ova gamesOva games - Password: www.ovagames.comankergamesSteamriphizsearch - search gamePirated Games Mega ThreadGuidesMod ManagerVortex - Nexus Mod managerMod Organizer 2SkyrimSupported gamesDiscordModding websiteNexus modsFar Cry Modding - Far Cry 3, 4, 5, 6, Primal, NDDiscordGamebananaGTA ModGTA V modsGta insideWabbajack - Modlist Installer Otomatis untuk Game BethesdaDiscordWikiSteam Workshop - download steam workshopAltCurseforgeMod - Moddb baruModdb - Komunitas mod game tertua yang menghubungkan pemain, pengembang, dan ide kreatif.TrainerCheat EngineFLiNGMrAntiFunWeModWeMod CrackCheat EvolutionFearLess - Community Cheat Tables untuk Cheat EngineCseTrainer - Multi Site Trainer Search"
+            "content": " Game Blokir iklan denga Ad Blcok, Gunakan Download Manager untuk mengunduh file. Install Useful Tools sebelum menjalankan gameGaming UtilityBefore I PlayCan you RUN ItGame Recommendation EngineGame StoreSteamSteamDB - EkstensiFree packagesGOGGOG to FreeItchGG DealsGame LauncherPlayniteaddonsHydralauncher - Crack LauncherLibraryFree GamesIsThereAnyDealFree250Itch.ioDLC UnlockerCream Installer - Cream APIGithubIntroductionDownloadSteamggGamebountyGog-games 🪦 / GoG RevivedAnkergamesFitgirl-repacksFake FitgirlElamigos - Tersedia juga di ova gamesOva games - Password: www.ovagames.comSteamriphizsearch / Ravegamesearch - search gameGames Mega Thread - MegathreadGuidesMod ManagerVortex - Nexus Mod managerMod Organizer 2SkyrimSupported gamesDiscordModding websiteNexus modsFar Cry Modding - Far Cry 3, 4, 5, 6, Primal, NDDiscordGamebananaGTA ModGTA V modsGta insideWabbajack - Modlist Installer Otomatis untuk Game BethesdaDiscordWikiSteam Workshop - download steam workshopAltCurseforgeMod - Moddb baruModdb - Komunitas mod game tertua yang menghubungkan pemain, pengembang, dan ide kreatif.TrainerCheat EngineFLiNGMrAntiFunWeModWeMod CrackCheat EvolutionFearLess - Community Cheat Tables untuk Cheat EngineCseTrainer - Multi Site Trainer Search"
         },
         {
             "url": "/Internet/",
@@ -132,7 +132,7 @@
         {
             "url": "/Keamanan/",
             "title": "Keamanan!",
-            "content": " Keamanan Virus ScanVirustotalJottiJoe SandboxNordvpnHybrid-analysisUrl ScanUrlscanCloudflare RadarScanurl"
+            "content": " Keamanan AntivirusAv-ComparativesMalwarebytesForumsKasperskyAntivirusVirus ScanVirustotalJottiJoe SandboxNordvpnHybrid-analysisUrl ScanUrlscanCloudflare RadarScanurlDNS / BlocklistDNSforfamilyJudolGuard Blocklists- blocklist untuk judolzfysoraTrustPositif"
         },
         {
             "url": "/Lainnya/",
@@ -142,11 +142,11 @@
         {
             "url": "/Download/",
             "title": "Download!",
-            "content": " Download Download ManagersAB Download ManagerJDownloaderClean Installers - JDownloader 2 Clean Installers (No Adware!)EnhanceDebloatIDMInstruksiXtreme download managerFree Download ManagerMotrix Bisa unduh BitTorrent dan MagnetFile CentipedeActivation CodeGithubHTTP DownloaderSitesBlokir iklan denga Ad Blcok dan Gunakan Download Manager untuk mengunduh file.Virgil SamidyCracksurlMicrosoft Store - Microsoft StoreFluentStore - Microsoft Store FrontendDanstore / MSFT Store - Microsoft Store downloaderStore / StoreWeb - Link Generators untuk Microsoft StorePremium DownloaderSoftpediaSourceForgeUptodownAlternativeToWindows packages managersUniGetUI, ⭐GitHub: 3.3.7WingetWinstallScoopChocolatey, InstallPowershellgalleryTools7-Zip - File archiverWinRAR, Remove pop-up - File archiverPeaZip - File archiver"
+            "content": " Download Download ManagersAB Download ManagerJDownloaderClean Installers - JDownloader 2 Clean Installers (No Adware!)EnhanceDebloatIDMInstruksiXtreme download managerFree Download ManagerMotrix Bisa unduh BitTorrent dan MagnetFile CentipedeActivation CodeGithubHTTP DownloaderSitesBlokir iklan denga Ad Blcok dan Gunakan Download Manager untuk mengunduh file.Virgil SamidyCracksurlMicrosoft Store - Microsoft StoreFluentStore - Microsoft Store FrontendDanstore / MSFT Store - Microsoft Store downloaderStore - Link Generators untuk Microsoft StorePremium DownloaderSoftpediaSourceForgeUptodownAlternativeToWindows packages managersUniGetUI, ⭐GitHub: 3.3.7WingetWinstallScoopChocolatey, InstallPowershellgallery"
         },
         {
             "url": "/hello-page/hello-child/",
             "title": "File!",
-            "content": " windows file File ToolCloudConvert / VERT - Online file converterFile converter - File converterCzkawka - Duplicate file finderFile SearchingVoidtoolsFluent SearchAgent RansackFile TransferLocalSendWeb LocalSendPairdropSyncthingAndroidPDFPDF gearSejda - PDF toolPDF24MEGA ToolsMegaMega Basterd - Download Quota BypassMega Account Generators - Account Gen / Ukuran Unggah Tak TerbatasFix Error"
+            "content": "Windows File (dokumen, gambar, video, audio, dll) windows file FileFile pada umumnya.File ToolCloudConvert / VERT - Online file converterFile converter - File converterCzkawka - Duplicate file finderFile SearchingVoidtoolsFluent SearchAgent RansackFile TransferLocalSendWeb LocalSendPairdropSyncthingAndroidFile Archiver7-Zip - File archiver7-Zip-zstdWinRAR, Remove pop-up - File archiverPeaZip - File archiverMEGA ToolsMegaMega Basterd - Download Quota BypassMega Account Generators - Account Gen / Ukuran Unggah Tak TerbatasFix ErrorDokumenBerkaitan dengan dokumen.PDFPDF gearSejda - PDF toolPDF24Sumatra PDF - PDF viewerGambarBerkaitan dengan gambar.Image EditingGimp - Image EditorInkscape - Ilustrasi, DesainPaint.NET - Image EditorImagemagickPhotopea - Online Image EditorPixlr - Online Image EditorPremium Content RemoverUnlimited Saves / 2Remove.bg - Online Image Background RemoverImage ViewerXnView MPAI Image ToolsUpscayl - AI Image UpscalingPinterestBn Bloat - privacy PinterestCosmosVideo EditingShotcutDaVinci ResolveWide VideoWallpaper / Customization / ThemesRainmeterLively WallpaperWallhavenDownloaderWallpaper AbyssLive WallpaperDesktophutMoewallsWallegendVS ThemesAIO PhotosCatppuccin - ThemeDracula - Theme"
         }
 ]
