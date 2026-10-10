@@ -12,7 +12,6 @@ tags:
 ---
 
 #### Windows 
-
 - [Software Download](https://www.microsoft.com/en-us/software-download/) - Download windows
     - [Uup](https://uup.rg-adguard.net/?id=6dedc052-e4e5-451b-a339-e982591a5a9a) - Windows 11 Upgrade
 - [Genuine Installation Media](https://massgrave.dev/genuine-installation-media) - Download Windows / Office
@@ -63,13 +62,6 @@ tags:
 - [Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 - [Easy Context Menu](https://www.sordum.org/7615/easy-context-menu-v1-6/)
 - [Kando](https://kando.menu/) - Context menu manager
-
-#### Antivirus
-- [Av-Comparatives](https://www.av-comparatives.org/tests/advanced-threat-protection-test-2025-consumer/#:~:text=the%20test%20situation.-,Test%20Results,-Below%20are%20the)
-- [Malwarebytes](https://www.malwarebytes.com/)
-  - [Forums](https://forums.malwarebytes.com/forum/7-windows-malware-removal-help-support/)
-- [Kaspersky](https://www.kaspersky.com/downloads/antivirus)
-- [Antivirus](https://old.reddit.com/r/antivirus/wiki/index#wiki_anti-virus_.28aka_anti-malware.29_developers)
 
 #### Email
 - [Proton](https://proton.me/mail)
