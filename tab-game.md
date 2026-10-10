@@ -12,7 +12,7 @@ tags:
 ---
 
 
-{% alert '**Blokir iklan denga [Ad Blcok](http://horyzontalhoror.github.io/Internet/#ad-block), Gunakan [Download Manager](http://horyzontalhoror.github.io/Download/#download-managers) untuk mengunduh file. Install [Useful Tools](http://horyzontalhoror.github.io/windows/#useful-utilities) sebelum menjalankan game**', 'info', 'Info' %}
+{% alert '**Blokir iklan denga [Ad Blcok](http://horyzontalhoror.github.io/Internet/#ad-block), Gunakan [Download Manager](http://horyzontalhoror.github.io/Download/#download-managers) untuk mengunduh file. Install [Useful Tools](http://horyzontalhoror.github.io/windows/#useful-utilities) sebelum menjalankan game**', 'success', 'Info' %}
 
 #### Gaming Utility
 - [Before I Play](https://beforeiplay.com/index.php?title=Category:Games)
