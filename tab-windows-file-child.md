@@ -10,7 +10,8 @@ tags:
     - windows
     - file
 ---
-## File
+
+{% iconCard 'File', 'File pada umumnya.', 'assets/costume/file_invoice.svg' %}
 #### File Tool
 - [CloudConvert](https://cloudconvert.com/) / [VERT](https://vert.sh/) - Online file converter
 - [File converter](https://file-converter.io/) - File converter
@@ -40,14 +41,18 @@ tags:
 - [Mega Account Generators](https://github.com/f-o/MEGA-Account-Generator) - Account Gen / Ukuran Unggah Tak Terbatas
   - [Fix Error](https://rentry.co/mega_account_generator)
 
-## Document (Dokumen)
+<br>
+{% iconCard 'Dokumen', 'Berkaitan dengan dokumen.', 'assets/costume/pdf.svg' %}
+
 #### PDF
 - [PDF gear](https://www.pdfgear.com/)
 - [Sejda](https://www.sejda.com/) - PDF tool
 - [PDF24](https://www.pdf24.org/)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/) - PDF viewer
 
-## Image (Gambar)
+<br>
+
+{% iconCard 'Gambar', 'Berkaitan dengan gambar.', 'assets/costume/photo.svg' %}
 #### Image Editing
 - [Gimp](https://www.gimp.org/) - Image Editor
 - [Inkscape](https://inkscape.org/) - Ilustrasi, Desain
